@@ -3,7 +3,6 @@
 Me llamo **Andrés Felipe Flórez Paternina**, soy **desarrollador Full Stack** con pasión por la tecnología y el ciclismo 🚴‍♂️.  
 Mi enfoque es construir soluciones digitales funcionales, atractivas y accesibles para los usuarios.  
 
----
 
 const tecnologias = {
   lenguajes: ["JavaScript", "TypeScript", "Python"],
@@ -21,7 +20,8 @@ const tecnologias = {
   contenedores: ["Docker"],
 
   controlVersiones: ["Git", "GitHub", "GitHub Actions"]
-};
+}
+
 
 
 ### 🚀 Actualmente estoy:
