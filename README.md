@@ -25,7 +25,6 @@ Mi enfoque es construir soluciones digitales funcionales, atractivas y accesible
 - Node.js  
 - Django  
 - NestJS  
-- *(Opcional)* JWT (como método de autenticación)
 
 ---
 
