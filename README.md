@@ -14,7 +14,7 @@ const techStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["HTML", "CSS", "React"],
   backend: ["Node.js", "Django", "NestJS"],
-  databases: ["MySQL", "MongoDB"],
+  databases: ["SQL", "MySQL", "MongoDB"],
   uiuxDesign: ["Figma", "Canva"],
   editors: ["Visual Studio Code", "Cursor", "Winsurf"],
   containers: ["Docker"],
