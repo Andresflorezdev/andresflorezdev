@@ -5,59 +5,24 @@ Mi enfoque es construir soluciones digitales funcionales, atractivas y accesible
 
 ---
 
-# 🚀 Tecnologías que manejo
+const tecnologias = {
+  lenguajes: ["JavaScript", "TypeScript", "Python"],
 
-## 🧠 Lenguajes de programación
-- JavaScript  
-- TypeScript  
-- Python  
+  frontend: ["HTML", "CSS", "React"],
 
----
+  backend: ["Node.js", "Django", "NestJS"],
 
-## 🎨 Frontend
-- HTML  
-- CSS  
-- React  
+  basesDeDatos: ["MySQL", "MongoDB"],
 
----
+  diseñoUIUX: ["Figma", "Canva"],
 
-## 🛠️ Backend
-- Node.js  
-- Django  
-- NestJS  
+  editores: ["Visual Studio Code", "Cursor", "Winsurf"],
 
----
+  contenedores: ["Docker"],
 
-## 🗄️ Bases de datos
-- MySQL  
-- MongoDB  
+  controlVersiones: ["Git", "GitHub", "GitHub Actions"]
+};
 
----
-
-## 🧩 Diseño UI/UX
-- Figma  
-- Canva  
-
----
-
-## 🧰 Editores de código
-- Visual Studio Code  
-- Cursor  
-- Winsurf  
-
----
-
-## 📦 Contenedores
-- Docker  
-
----
-
-## 🔧 Control de versiones y automatización
-- Git  
-- GitHub  
-- GitHub Actions  
-
----
 
 ### 🚀 Actualmente estoy:
 - Perfeccionando mis habilidades en **arquitectura de software** y **buenas prácticas de desarrollo**.  
