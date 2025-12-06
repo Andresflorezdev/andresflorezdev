@@ -4,24 +4,20 @@ Me llamo **Andrés Felipe Flórez Paternina**, soy **desarrollador Full Stack** 
 Mi enfoque es construir soluciones digitales funcionales, atractivas y accesibles para los usuarios.  
 
 
+## 🖥️ Tech Stack
+
+```js
 const tecnologias = {
   lenguajes: ["JavaScript", "TypeScript", "Python"],
-
   frontend: ["HTML", "CSS", "React"],
-
   backend: ["Node.js", "Django", "NestJS"],
-
   basesDeDatos: ["MySQL", "MongoDB"],
-
   diseñoUIUX: ["Figma", "Canva"],
-
   editores: ["Visual Studio Code", "Cursor", "Winsurf"],
-
   contenedores: ["Docker"],
-
   controlVersiones: ["Git", "GitHub", "GitHub Actions"]
 }
-
+```
 
 
 ### 🚀 Actualmente estoy:
