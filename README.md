@@ -5,13 +5,59 @@ Mi enfoque es construir soluciones digitales funcionales, atractivas y accesible
 
 ---
 
-### 💻 Tecnologías que manejo: 
-- JavaScript, TypeScript, Python.
-- HTML, CSS.
-- MySQL, MongoDB.
-- Django, Node.js.
-- Figma
-- Visual Studio Code, Cursor.
+# 🚀 Tecnologías que manejo
+
+## 🧠 Lenguajes de programación
+- JavaScript  
+- TypeScript  
+- Python  
+
+---
+
+## 🎨 Frontend
+- HTML  
+- CSS  
+- React  
+
+---
+
+## 🛠️ Backend
+- Node.js  
+- Django  
+- NestJS  
+- *(Opcional)* JWT (como método de autenticación)
+
+---
+
+## 🗄️ Bases de datos
+- MySQL  
+- MongoDB  
+
+---
+
+## 🧩 Diseño UI/UX
+- Figma  
+- Canva  
+
+---
+
+## 🧰 Editores de código
+- Visual Studio Code  
+- Cursor  
+- Winsurf  
+
+---
+
+## 📦 Contenedores
+- Docker  
+
+---
+
+## 🔧 Control de versiones y automatización
+- Git  
+- GitHub  
+- GitHub Actions  
+
 ---
 
 ### 🚀 Actualmente estoy:
