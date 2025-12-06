@@ -67,7 +67,4 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ð
 
 ---
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/220/220812.gif" alt="Amazing Spider-Man GIF" width="300">
-</p>
 
