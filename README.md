@@ -73,11 +73,3 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ð
 
 </div>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Spider-Man Coding" width="400">
-</p>
-
----
-
