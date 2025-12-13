@@ -57,15 +57,27 @@ I love learning new things, and in my spare time I enjoy **cycling and music** �
 
 <div align="center">
   
-  ### Andrés Felipe Flórez's GitHub Stats  
+  ### 📊 GitHub Stats  
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorez1234&layout=compact&theme=midnight-purple&cache_seconds=60" 
-    alt="Top Langs" 
-    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=andresflorez1234&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorez1234&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="180"
   />
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Spider-Man Coding" width="400">
+</p>
 
 ---
 
