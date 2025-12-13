@@ -60,13 +60,13 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ð
   ### ðŸ“Š GitHub Stats  
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=andresflorez1234&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=andresflorezdev&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
     height="180"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorez1234&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorezdev&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     height="180"
   />
