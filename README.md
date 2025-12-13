@@ -58,12 +58,6 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ð
 <div align="center">
   
   ### ðŸ“Š GitHub Stats  
-
-  <img 
-    src="https://streak-stats.demolab.com/?user=andresflorezdev&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-    height="180"
-  />
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorezdev&layout=compact&theme=radical&hide_border=true" 
