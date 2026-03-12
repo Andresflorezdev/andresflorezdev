@@ -56,8 +56,7 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ð
   
 ## ðŸ“Š GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresflorezdev&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="200"/>
-</p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Andresflorezdev&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresflorezdev&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Top languages" /> </p>
 
 </div>
 
