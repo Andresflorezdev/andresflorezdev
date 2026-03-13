@@ -62,3 +62,8 @@ I love learning new things, and in my spare time I enjoy **cycling and music** ğ
 
 ---
 
+## ğŸ Contributions
+
+<p align="center">
+  <img src="assets/contribution-snake.svg" alt="Contribution graph" />
+</p>

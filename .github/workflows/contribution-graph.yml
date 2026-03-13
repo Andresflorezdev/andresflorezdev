@@ -1,0 +1,38 @@
+name: Generate contribution graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todos los días 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Genera el SVG del "contribution graph"
+      # Esta action es popular para generar un SVG estilo "snake" con tus contribuciones.
+      # Si prefieres un gráfico tipo línea como tu captura, dime y lo hacemos con otro generador.
+      - name: Generate SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Andresflorezdev
+          outputs: |
+            assets/contribution-snake.svg?palette=github-dark
+
+      - name: Commit & push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/contribution-snake.svg"
+          message: "chore: update contribution graph"
+          default_author: github_actions
