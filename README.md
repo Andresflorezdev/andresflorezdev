@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&width=435&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="Animated Hello" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&width=500&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="Animated hello" />
 </p>
 
-My name is **Andrés Felipe Flórez Paternina** and I'm a **Full Stack developer** who's passionate about technology and cycling 🚴‍♂️.  
-I focus on building digital solutions that are functional, attractive, and accessible for users.
+<h1 align="center">Andrés Felipe Flórez Paternina</h1>
+<p align="center">
+  Full Stack Developer · Building functional, attractive and accessible digital products.
+</p>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8F43F7&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Tech+Stack" alt="Animated Tech Stack Title" />
+## 🖥️ Tech Stack
 
 ```js
 const techStack = {
@@ -15,7 +17,7 @@ const techStack = {
   frontend: ["HTML", "CSS", "React"],
   backend: ["Node.js", "Django", "NestJS"],
   databases: ["SQL", "MySQL", "MongoDB"],
-  editors: ["Visual Studio Code", "Cursor", "Antigravity"],
+  editors: ["Visual Studio Code", "Cursor"],
   containers: ["Docker"],
   versionControl: ["Git", "GitHub", "GitHub Actions"]
 }
@@ -41,29 +43,24 @@ const techStack = {
 
 ---
 
-### 🚀 I am currently:
-- Perfecting my skills in **software architecture** and **best development practices**.
+## 🚀 Currently
+- Perfecting my skills in software architecture and development best practices.
 - Exploring new tools to optimize my workflow.
 
----
-
-### 🌱 Fun fact:
-I love learning new things, and in my spare time I enjoy **cycling and music** 🎶
+## 🌱 Fun Fact
+I enjoy learning new things, and in my free time I love cycling and music 🎶
 
 ---
 
-<div align="center">
-  
 ## 📊 GitHub Stats
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Andresflorezdev&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresflorezdev&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Top languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresflorezdev&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresflorezdev&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+</p>
 
-</div>
-
----
-
-## Contributions
+## 📈 Contributions
 
 <p align="center">
-  <img src="assets/contributions-line.svg" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8" alt="Contribution graph" />
 </p>
