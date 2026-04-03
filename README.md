@@ -41,7 +41,7 @@ const techStack = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="32" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" alt="Ubuntu" />
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" height="32" alt="Ubuntu" />
 </p>
 
 ---
