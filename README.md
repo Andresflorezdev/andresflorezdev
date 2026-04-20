@@ -16,7 +16,7 @@ const techStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["HTML", "CSS", "React"],
   backend: ["Node.js", "Django", "NestJS"],
-  databases: ["SQL", "MySQL", "MongoDB"],
+  databases: ["SQL", "MySQL", "MongoDB", "PostgreSQL"],
   editors: ["Visual Studio Code", "Cursor"],
   containers: ["Docker"],
   apiTesting: ["Postman"],
@@ -37,6 +37,7 @@ const techStack = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="32" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
