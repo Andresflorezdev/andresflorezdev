@@ -6,20 +6,22 @@
 <p align="center">Building functional, attractive and accessible digital products.</p>
 <p align="center">
   <b>Full Stack Developer · Node.js · Django · NestJS · React</b>
-  <br>
-  Medellín, Antioquia, Colombia
-  <br><br>
-  <a href="https://www.linkedin.com/in/andres-felipe-florez-paternina/">
-    <img src="https://img.shields.io/badge/LinkedIn-andres--felipe--florez--paternina-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-felipe-florez-paternina/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:florezandresfelipe62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-florezandresfelipe62@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="mailto:andres.florez25@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-andres.florez25@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="32" alt="Outlook" />
   </a>
-  <a href="https://www.instagram.com/afe.florez_p?igsh=OWhnYzhra21kZWxi">
-    <img src="https://img.shields.io/badge/Instagram-afe.florez_p-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;
+  <a href="https://www.instagram.com/afe.florez_p?igsh=OWhnYzhra21kZWxi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="32" alt="Instagram" />
   </a>
 </p>
 
