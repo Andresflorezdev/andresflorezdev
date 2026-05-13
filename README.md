@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
+<p align="center">Building functional, attractive and accessible digital products.</p>
 <p align="center">
   <b>Full Stack Developer · Node.js · Django · NestJS · React</b>
   <br>
