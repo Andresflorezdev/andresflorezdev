@@ -57,13 +57,11 @@ I enjoy learning new things, and in my free time I love cycling and music 🎶
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Andresflorezdev&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Andresflorezdev&theme=github_dark&hide_border=false)
 
 ## 📈 Contributions
 
