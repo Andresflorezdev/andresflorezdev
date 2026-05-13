@@ -3,21 +3,7 @@
 </p>
 
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
-<p align="center">Building functional, attractive and accessible digital products.</p>
-<p align="center">
-  <b>Full Stack Developer</b>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/andres-felipe-florez-paternina/" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=262626" alt="LinkedIn" />
-  </a>
-  <a href="mailto:florezandresfelipe62@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=262626&label=" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/afe.florez_p?igsh=OWhnYzhra21kZWxi" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=262626&label=" alt="Instagram" />
-  </a>
-</p>
+<p align="center">Full Stack Developer Building functional, attractive and accessible digital products.</p>
 
 ---
 
