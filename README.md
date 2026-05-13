@@ -4,7 +4,22 @@
 
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
 <p align="center">
-  Full Stack Developer · Building functional, attractive and accessible digital products.
+  <b>Full Stack Developer · Node.js · Django · NestJS · React</b>
+  <br>
+  Medellín, Antioquia, Colombia
+  <br><br>
+  <a href="https://www.linkedin.com/in/andres-felipe-florez-paternina/">
+    <img src="https://img.shields.io/badge/LinkedIn-andres--felipe--florez--paternina-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:florezandresfelipe62@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-florezandresfelipe62@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:andres.florez25@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-andres.florez25@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://www.instagram.com/afe.florez_p?igsh=OWhnYzhra21kZWxi">
+    <img src="https://img.shields.io/badge/Instagram-afe.florez_p-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
