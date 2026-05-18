@@ -12,13 +12,14 @@
 ```js
 const techStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
-  frontend: ["HTML", "CSS", "React"],
-  backend: ["Node.js", "Django", "NestJS"],
+  frontend: ["HTML", "CSS", "Tailwind CSS", "React"],
+  backend: ["Node.js", "Express.js", "Django", "NestJS", "REST APIs"],
   databases: ["SQL", "MySQL", "MongoDB", "PostgreSQL"],
-  editors: ["Visual Studio Code", "Cursor"],
+  orms: ["TypeORM", "Mongoose", "Django ORM"],
+  editors: ["Visual Studio Code", "Cursor", "Windsurf"],
   containers: ["Docker"],
-  apiTesting: ["Postman"],
-  os: ["Ubuntu"],
+  apiTesting: ["Postman", "Swagger"],
+  os: ["Windows", "Ubuntu"],
   versionControl: ["Git", "GitHub", "GitHub Actions"]
 }
 ```
