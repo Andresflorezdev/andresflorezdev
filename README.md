@@ -26,7 +26,7 @@ const techStack = {
   backend: ["Node.js", "Express.js", "Django", "NestJS", "REST APIs"],
   databases: ["SQL", "MySQL", "MongoDB", "PostgreSQL"],
   orms: ["TypeORM", "Mongoose", "Django ORM"],
-  editors: ["Visual Studio Code", "Cursor", "Windsurf"],
+  editors: ["Visual Studio Code", "Cursor", "Devin"],
   containers: ["Docker"],
   apiTesting: ["Postman", "Swagger"],
   os: ["Windows", "Ubuntu"],
