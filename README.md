@@ -5,17 +5,6 @@
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
 <p align="center">Full Stack Developer Building functional, attractive and accessible digital products.</p>
 
----
-
-## 🚧 Portfolio Under Construction
-
-My personal developer portfolio **is currently being built**.  
-Very soon, you’ll be able to find my featured projects, experience, and more info about me there!
-
-<!-- Construction emoji for more impact -->
-<img src="https://img.icons8.com/fluency/48/000000/under-construction.png" alt="Under construction" width="32"/>
-
----
 
 ## 🖥️ Tech Stack
 
