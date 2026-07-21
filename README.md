@@ -50,10 +50,6 @@ const techStack = {
 - Perfecting my skills in software architecture and development best practices.
 - Exploring new tools to optimize my workflow.
 
-## 🌱 Fun Fact
-I enjoy learning new things, and in my free time I love cycling and music 🎶
-
----
 
 ## 📊 GitHub Stats
 
