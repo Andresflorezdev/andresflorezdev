@@ -75,5 +75,5 @@ const techStack = {
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph%20(Last%2030%20Days)" width="98%" alt="Contribution Graph" />
 </p>
