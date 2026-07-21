@@ -57,9 +57,24 @@ I enjoy learning new things, and in my free time I love cycling and music 🎶
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&layout=compact&langs_count=10) |
-|---|---|
-
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Andresflorezdev&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" alt="Most Used Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andresflorezdev&theme=github_dark" height="165" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ## 📈 Contributions
 
