@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1KUx3bYgPm0IKzc6aO7epbJKuHnjHV5kN" alt="Foto de perfil de Andrés Flórez" width="1000" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="Animated hello" />
 </p>
 
