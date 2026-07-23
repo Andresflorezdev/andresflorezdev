@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1KUx3bYgPm0IKzc6aO7epbJKuHnjHV5kN" alt="Foto de perfil de Andrés Flórez" width="1000" />
+  <img src="https://drive.google.com/uc?export=view&id=1EgaGHoucN87GFBJNkXbvrDvmRXR9QteU" alt="Foto de perfil de Andrés Flórez" width="1000" />
 </p>
 
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
