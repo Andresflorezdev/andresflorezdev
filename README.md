@@ -63,9 +63,11 @@ const techStack = {
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" alt="Most Used Languages" />
-      <img src="https://github-profile-trophy.vercel.app/?username=Andresflorezdev&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andresflorezdev&theme=github_dark" height="165" alt="Productive Time" />
     </td>
   </tr>
 </table>
