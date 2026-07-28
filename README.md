@@ -65,6 +65,7 @@ const techStack = {
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" alt="Most Used Languages" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Andresflorezdev&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
@@ -74,3 +75,4 @@ const techStack = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph%20(Last%2030%20Days)" width="98%" alt="Contribution Graph" />
 </p>
+
