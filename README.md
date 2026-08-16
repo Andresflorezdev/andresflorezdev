@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="Animated hello" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="" />
 </p>
 
 <h1 align="center">Andrés Felipe Flórez Paternina</h1>
@@ -56,7 +56,7 @@ const techStack = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andresflorezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="100%" alt="GitHub Stats" />
+      <!-- GitHub stats image removed because it was failing -->
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Andresflorezdev&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
@@ -64,7 +64,7 @@ const techStack = {
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andresflorezdev&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" alt="Most Used Languages" />
+      <!-- Top languages image removed because it was failing -->
     </td>
     <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andresflorezdev&theme=github_dark" height="165" alt="Productive Time" />
@@ -75,6 +75,5 @@ const techStack = {
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph%20(Last%2030%20Days)" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8&custom_title=Contributions" alt="Contributions graph" />
 </p>
-
