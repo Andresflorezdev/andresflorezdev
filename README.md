@@ -51,27 +51,6 @@ const techStack = {
 - Exploring new tools to optimize my workflow.
 
 
-## 📊 GitHub Stats
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- GitHub stats image removed because it was failing -->
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Andresflorezdev&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Top languages image removed because it was failing -->
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andresflorezdev&theme=github_dark" height="165" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
 ## 📈 Contributions
 
 <p align="center">
