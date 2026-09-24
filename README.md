@@ -64,12 +64,14 @@ const techStack = {
         />
       </td>
       <td>
-        <img
-          src="https://github-stats-extended.vercel.app/api/top-langs?username=Andresflorezdev&layout=compact&langs_count=10&hide_values=true&theme=dark_github"
-          alt="Top Languages"
-          width="450"
-          height="180"
-        />
+        <a href="https://git.io/streak-stats">
+          <img
+            src="https://streak-stats.demolab.com?user=Andresflorezdev&theme=transparent&mode=weekly"
+            alt="GitHub Streak"
+            width="450"
+            height="180"
+          />
+        </a>
       </td>
     </tr>
   </table>
