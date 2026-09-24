@@ -50,6 +50,30 @@ const techStack = {
 - Perfecting my skills in software architecture and development best practices.
 - Exploring new tools to optimize my workflow.
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Andresflorezdev&show_icons=true&include_all_commits=true&theme=dark_github"
+          alt="GitHub Stats"
+          width="450"
+          height="180"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=Andresflorezdev&layout=compact&langs_count=10&hide_values=true&theme=dark_github"
+          alt="Top Languages"
+          width="450"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📈 Contributions
 
