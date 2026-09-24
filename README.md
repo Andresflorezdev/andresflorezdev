@@ -1,3 +1,6 @@
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0000FF&section=header&reversal=false&textBg=false&fontSize=1&fontAlign=100&fontAlignY=100&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=100&descAlignY=100" width="100%" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8F43F7&random=false&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%98%8E;Welcome+to+my+profile%21" alt="" />
 </p>
@@ -77,8 +80,5 @@ const techStack = {
   </table>
 </div>
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresflorezdev&bg_color=0d1117&color=58a6ff&line=f778ba&point=f9f871&area=true&hide_border=true&radius=8&custom_title=Contributions" alt="Contributions graph" />
-</p>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0000FF&section=footer&reversal=false&textBg=false&fontSize=1&fontAlign=100&fontAlignY=100&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=100&descAlignY=100" width="100%" />
