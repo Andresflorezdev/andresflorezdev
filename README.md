@@ -16,7 +16,7 @@ const techStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["HTML", "CSS", "Tailwind CSS", "React"],
   backend: ["Node.js", "Express.js", "Django", "NestJS", "REST APIs"],
-  databases: ["SQL", "MySQL", "MongoDB", "PostgreSQL"],
+  databases: ["SQL", "MySQL", "MongoDB", "PostgreSQL", "Supabase"],
   orms: ["TypeORM", "Mongoose", "Django ORM"],
   editors: ["Visual Studio Code"],
   containers: ["Docker"],
@@ -39,6 +39,7 @@ const techStack = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
